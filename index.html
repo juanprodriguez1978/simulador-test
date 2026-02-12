@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de Test - 300 Preguntas</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <div class="container">
+        <aside class="sidebar">
+            <h2>Progreso</h2>
+            <div class="chart-container">
+                <canvas id="progresoChart"></canvas>
+            </div>
+            <div id="stats">
+                <p>Respondidas: <span id="total-cont">0</span> / 300</p>
+                <p class="pass">Aciertos: <span id="pass-cont">0</span></p>
+                <p class="fail">Errores: <span id="fail-cont">0</span></p>
+                <p id="status-msg">Estado: Pendiente</p>
+            </div>
+        </aside>
+
+        <main class="quiz-content" id="quiz-container">
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
