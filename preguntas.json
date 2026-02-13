@@ -2,7 +2,7 @@
   {
     "id": 1001,
     "pregunta": "España es…",
-    "opciones": ["uNa monarquía parlamentaria.", "una república federal.", "una monarquía federal."],
+    "opciones": ["una monarquía parlamentaria.", "una república federal.", "una monarquía federal."],
     "correcta": 0
   },
   {
