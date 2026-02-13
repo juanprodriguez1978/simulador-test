@@ -1495,14 +1495,13 @@
  },
  {
     "id": 5034,
-    "pregunta": "¿Qué tipo de impuestos tienen que pagar los ciudadanos en España?",
-    "opciones": ["Impuestos directos como el IRPF.", "Impuestos indirectos como el IVA.", "Impuestos directos e indirectos."],
-    "correcta": 0
- },
- {
-    "id": 5035,
     "pregunta": "¿Cuál de estos productos necesita importar España de otros países?",
     "opciones": ["Petróleo.", "Aceite de oliva.", "Medicamentos."],
+    "correcta": 0
+ },{
+    "id": 5035,
+    "pregunta": "¿Qué tipo de impuestos tienen que pagar los ciudadanos en España?",
+    "opciones": ["Impuestos directos como el IRPF.", "Impuestos indirectos como el IVA.", "Impuestos directos e indirectos."],
     "correcta": 2
  },
  {
