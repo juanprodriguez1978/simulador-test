@@ -357,7 +357,7 @@
     "id": 1060,
     "pregunta": "La Constitución defiende valores tales como la libertad, la igualdad, el pluralismo político y…",
     "opciones": ["la justicia.", "la solidaridad.", "la fraternidad."],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "id": 1061,
@@ -369,7 +369,7 @@
     "id": 1062,
     "pregunta": "¿Cuántos habitantes hay en España?",
     "opciones": ["95 millones.", "49 millones.", "67 millones."],
-    "correcta": 2
+    "correcta": 1
   },
   {
     "id": 1063,
@@ -465,7 +465,7 @@
     "id": 1078,
     "pregunta": "¿Quién hace el control de pasaportes en las fronteras de España?",
     "opciones": ["La Guardia Civil.", "La Policía local.", "La Policía Nacional."],
-    "correcta": 0
+    "correcta": 2
   },
   {
     "id": 1079,
@@ -513,7 +513,7 @@
     "id": 1086,
     "pregunta": "¿Quién vigila el tráfico en las carreteras?",
     "opciones": ["La Guardia Civil.", "La Policía Nacional.", "El Ejército de Tierra."],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "id": 1087,
@@ -531,7 +531,7 @@
     "id": 1089,
     "pregunta": "¿Cómo se llaman los órganos de gobierno que solo existen en Canarias?",
     "opciones": ["Cabildos.", "Consejos insulares.", "Diputaciones."],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "id": 1090,
@@ -615,7 +615,7 @@
     "id": 1103,
     "pregunta": "¿Cuántas mujeres han sido presidentas de Gobierno en España?",
     "opciones": ["Ninguna.", "Una.", "Dos."],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "id": 1104,
@@ -675,7 +675,7 @@
     "id": 1113,
     "pregunta": "Algunos ciudadanos extranjeros pueden votar en las elecciones…",
     "opciones": ["municipales.", "autonómicas.", "generales."],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "id": 1114,
@@ -705,7 +705,7 @@
     "id": 1118,
     "pregunta": "La comunidad autónoma más poblada de España es…",
     "opciones": ["Andalucía.", "Cataluña.", "Castilla y León."],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "id": 1119,
@@ -999,13 +999,13 @@
     "id": 3011,
     "pregunta": "¿Dónde está el monte Aneto?",
     "opciones": ["En los Pirineos.", "En el Sistema Central.", "En Sierra Nevada."],
-    "correcta": 2
+    "correcta": 0
   },
   {
     "id": 3012,
     "pregunta": "La ciudad de Vitoria es la sede administrativa de…",
     "opciones": ["Navarra.", "País Vasco.", "La Rioja."],
-    "correcta": 0
+    "correcta": 1
   },
   {
     "id": 3013,
@@ -1029,7 +1029,7 @@
     "id": 3016,
     "pregunta": "¿En qué lugar de España hay un clima que se caracteriza por inviernos fríos y veranos muy calurosos?",
     "opciones": ["Canarias.", "Comunidad Valenciana.", "Madrid."],
-    "correcta": 1
+    "correcta": 2
   },
   {
     "id": 3017,
@@ -1077,7 +1077,7 @@
     "id": 3024,
     "pregunta": "¿Cuál es la capital de la comunidad autónoma de Extremadura?",
     "opciones": ["Cáceres.", "Badajoz.", "Mérida."],
-    "correcta": 1
+    "correcta": 2
   },
   {
     "id": 4001,
@@ -1155,7 +1155,7 @@
     "id": 4013,
     "pregunta": "¿Qué novela de éxito ha escrito Irene Vallejo?",
     "opciones": ["El infinito en un junco.", "El tiempo entre costuras.", "El camino."],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "id": 4014,
@@ -1203,7 +1203,7 @@
     "id": 4021,
     "pregunta": "¿Quién ha recibido el premio Nobel de Literatura?",
     "opciones": ["María Zambrano.", "Pablo Picasso.", "Vicente Aleixandre."],
-    "correcta": 0
+    "correcta": 2
   },
   {
     "id": 4022,
@@ -1497,13 +1497,13 @@
     "id": 5034,
     "pregunta": "¿Qué tipo de impuestos tienen que pagar los ciudadanos en España?",
     "opciones": ["Impuestos directos como el IRPF.", "Impuestos indirectos como el IVA.", "Impuestos directos e indirectos."],
-    "correcta": 2
+    "correcta": 0
  },
  {
     "id": 5035,
     "pregunta": "¿Cuál de estos productos necesita importar España de otros países?",
     "opciones": ["Petróleo.", "Aceite de oliva.", "Medicamentos."],
-    "correcta": 0
+    "correcta": 2
  },
  {
     "id": 5036,
@@ -1569,7 +1569,7 @@
     "id": 5046,
     "pregunta": "¿Cuál de estos productos exporta España más que importa?",
     "opciones": ["Gas.", "Ropa.", "Calzado."],
-    "correcta": 1
+    "correcta": 2
  },
  {
     "id": 5047,
@@ -1641,13 +1641,13 @@
     "id": 5058,
     "pregunta": "¿Cuál es el canal de televisión estatal que transmite noticias de actualidad nacional e internacional continuamente?",
     "opciones": ["Teledeporte.", "La 1.", "Canal 24 horas."],
-    "correcta": 1
+    "correcta": 2
  },
  {
     "id": 5059,
     "pregunta": "El teléfono gratuito para las víctimas de violencia de género es el…",
     "opciones": ["091.", "112.", "016."],
-    "correcta": 1
+    "correcta": 2
  },
  {
     "id": 5060,
@@ -1719,7 +1719,7 @@
     "id": 5071,
     "pregunta": "¿Cuál es el medio de transporte público que tiene una luz verde encendida si está libre?",
     "opciones": ["El autobús.", "El taxi.", "El tranvía."],
-    "correcta": 2
+    "correcta": 1
  },
  {
     "id": 5072,
@@ -1767,7 +1767,7 @@
     "id": 5079,
     "pregunta": "La educación infantil en España…",
     "opciones": ["es obligatoria.", "tiene dos ciclos.", "empieza a los 4 años."],
-    "correcta": 2
+    "correcta": 1
  },
  {
     "id": 5080,
