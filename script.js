@@ -28,7 +28,9 @@ async function loadQuiz() {
         preguntas.forEach((p, index) => {
             const card = document.createElement('div');
             card.className = 'question-card';
-            card.innerHTML = `<h3>${index + 1}. ${p.pregunta}</h3><div class="options-container" id="q-${index}"></div>`;
+            
+            card.innerHTML = `<h3>ID: ${p.id}. ${p.pregunta}</h3><div class="options-container" id="q-${index}"></div>`;
+            
             container.appendChild(card);
 
             const optionsDiv = document.getElementById(`q-${index}`);
